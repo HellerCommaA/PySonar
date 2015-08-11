@@ -6,5 +6,6 @@ Just import it directly.
 
 All of the endpoints will be exposed via this API that are exposed via the offical SendSonar API.
 
+Requires Kennith Reitz's Requests 
 
 MIT Licensed.
