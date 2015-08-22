@@ -1,2 +1,1 @@
-from pysonar.errors import *
-from pysonar.pysonar import *
+from pysonar.main import *
